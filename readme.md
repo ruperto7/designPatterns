@@ -1,5 +1,7 @@
 Design Patterns Examples
-Due to complexity, we begin with simple examples of the need for design patterns
+Due to complexity, we begin with simple examples of the need for design patterns.
+
+Note: Knowing about design patterns would become important after you have been a programmer for a few years. This is because the new code that would create new functions and classes will need to follow a well-known strategy. This strategy is a design pattern. When other coders read your code, they would have an over-all idea of how the code is organized. For example, if the comments indicates this portion code is written in e.g. Factory pattern, the readability of code is improved and so will the overall performance in completing the build. 
 
 
 Others
